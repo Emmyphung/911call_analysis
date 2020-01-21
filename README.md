@@ -9,7 +9,5 @@ Reference:
 
 <center><img src=" https://github.com/Emmyphung/portfolio/blob/master/images/911calls_heatmap.png"/><center>
 <br>
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/911calls_barplot.png"/><center>
-<br>
 
 
